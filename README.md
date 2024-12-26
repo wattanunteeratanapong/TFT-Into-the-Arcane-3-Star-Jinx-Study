@@ -24,7 +24,11 @@ If each champion unit is running out of pool, player won't be able to find that 
 2-Cost(13) : Akali, Camille, Leona, Nocturne, Rell, Renata, Sett, Tristana, Urgot, Vander, Vladimir, Zeri, Ziggs <br>
 3-Cost(13) : Blitzcrank, Cassiopeia, Ezreal, Gangplank, Kogmaw, Loris, Nami, Nunu, Renni, Scar, Smeech, Swain, Twisted Fate <br>
 4-Cost(12) : Ambessa, Corki, Dr Mundo, Ekko, Elise, Garen, Heimerdinger, Illaoi, Silco, Twitch, Vi, Zoe <br>
-5-Cost(8)&nbsp;&nbsp; : Caitlyn, Jayce, Jinx, Leblanc, Malzahar, Mordekaiser, Rumble, Sevika
+5-Cost(8)&nbsp;&nbsp; : Caitlyn, Jayce, Jinx, Leblanc, Malzahar, Mordekaiser, Rumble, Sevika <br><br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8c7035b2-7e40-427d-9775-c986db586f0e" width="100%" alt="Jinx">
+</div>
+
 
 
 
