@@ -42,13 +42,36 @@ Every unit in every cost could upgrade to 1-Star, 2-Star, 3-Star. <br>
 
 
 
+## Level System & Odds System
+Chance of getting each cost in each level is different <br>
+In this experiment we're gonna test from level 7 to 10, to see each level gold needed for finding 5-Cost 3-Star Unit <br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bc4ee11a-0ee8-448f-a3a3-1d0f5be5f48e" width="100%" alt="Jinx">
+</div>
+<br>
+
+
 
 ## Result from Simulation
+### Level 7
+
+### Level 8
+
+### Level 9
+
+### Level 10
 <br>
 
 
 
 ## Conclusion
+### Level 7
+
+### Level 8
+
+### Level 9
+
+### Level 10
 In this patch, the chance of getting the anomaly we’re looking for increase every trail because we’re selecting anomalies that we’re not looking for out of the pool. But if we look at the number of trails to get the anomaly, the chance is the same for every trial. <br>
 The expected value of this patch from simulation is around 30 so it mean we most likely to get anomaly that we're looking for in trial 30, in that case we need a spare gold around 60 gold to get anomaly that we're looking for.
 
