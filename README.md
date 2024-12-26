@@ -53,3 +53,6 @@ The expected value of this patch from simulation is around 60 so it mean we most
 <a href="https://tftactics.gg/champions/">TFT Set 13 Champions List</a>
 <br>
 
+<a href="https://tftactics.gg/db/rolling/">TFT Set 13 Rolling Chances</a>
+<br>
+
