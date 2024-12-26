@@ -5,7 +5,7 @@ Have you ever wonder how many gold do we have to spend to get 3-Star Jinx in TFT
 
 
 ## Overview
-TFT is a game that heavily rely on a statistic, In this repository we are gonna find out that how many gold do we need to spare for reroll to find 3 star Jinx. This could also apply to every 5-Costs unit not only jinx. <br>
+TFT is a game that heavily rely on a probability and statistic, In this repository we are gonna find out that how many gold do we need to spare for reroll to find 3 star Jinx. This could also apply to every 5-Costs unit not only jinx. <br>
 If you can make 5-Cost Unit that have 3-Star, in that match it's a guarantee win at 1st place for you in that match. <br>
 So that we can use this info to make the best decision for the best strategy and getting out of this dogshit game elo hell. <br><br>
 In this experiment we gonna test on patch 14.23 where 6-Cost doesn't exist in this patch <br>
