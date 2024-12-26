@@ -1,22 +1,22 @@
 # TFT Set 13 3 Star Jinx Analysis
-Have you ever wonder how many gold do we have to spend to get 3 star Jinx in TFT Set13? <br><br>
+Have you ever wonder how many gold do we have to spend to get 3-Star Jinx in TFT Set13? <br><br>
 <img src="https://github.com/user-attachments/assets/261a36cc-8801-4ea2-9fcf-e04538878a24" width="100%" alt="Jinx">
 
 
 
 ## Overview
-TFT is a game that heavily rely on a statistic, In this repository we are gonna find out that how many gold do we need to spare for reroll to find 3 star Jinx. This could also apply to every 5 costs unit not only jinx. <br>
+TFT is a game that heavily rely on a statistic, In this repository we are gonna find out that how many gold do we need to spare for reroll to find 3 star Jinx. This could also apply to every 5-Costs unit not only jinx. <br>
 If you can make 5-Cost Unit that have 3-Star, in that match it's a guarantee win at 1st place for you in that match. <br>
 So that we can use this info to make the best decision for the best strategy and getting out of this dogshit game elo hell. <br><br>
-In this experiment we gonna test on patch 14.23 where 6 cost doesn't exist in this patch <br>
-But this test could also apply to patch 14.24 because 6 star cost chance are very low it doesn't affect the chance of 5 cost units. <br><br>
+In this experiment we gonna test on patch 14.23 where 6-Cost doesn't exist in this patch <br>
+But this test could also apply to patch 14.24 because 6-Cost chance are very low it doesn't affect the chance of 5-Cost units. <br><br>
 Time of simulation is around 10 million time for getting close to the theoratical probability as much as possible. <br>
 <br>
 
 
 
 ## Pool System
-There are 5 type of unit in TFT. 1-cost, 2-cost, 3-cost, 4-cost, 5-cost <br>
+There are 5 type of unit in TFT. 1-Cost, 2-Cost, 3-Cost, 4-Cost, 5-Cost <br>
 1-4 Cost Unit each champion have 18 unit in the pool <br>
 &nbsp;&nbsp;5&nbsp;&nbsp;Cost Unit each champion have 9 unit in the pool <br>
 If each champion unit is running out of pool, player won't be able to find that unit unless that unit is sold back to the pool <br><br>
