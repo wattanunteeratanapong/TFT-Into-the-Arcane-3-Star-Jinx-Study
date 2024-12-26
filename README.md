@@ -5,7 +5,8 @@ Have you ever wonder how many gold do we have to spend to get 3-Star Jinx in TFT
 
 
 ## Overview
-TFT is a game that heavily rely on a probability and statistic, In this repository we are gonna find out that how many gold do we need to spare for reroll to find 3-Star Jinx. This could also apply to every 5-Costs unit not only jinx. <br>
+TFT is a game that heavily rely on a probability and statistic, In this repository we are gonna find out that how many gold do we need to spare for reroll to find 3-Star Jinx. <br>
+This could also apply to every 5-Costs unit not only Jinx. <br>
 If you can make 5-Cost Unit that have 3-Star, in that match it's a guarantee win at 1st place for you in that match. <br>
 So that we can use this info to make the best decision for the best strategy and getting out of this elo hell. <br><br>
 In this experiment we gonna test on patch 14.23 where 6-Cost doesn't exist in this patch <br>
@@ -26,7 +27,7 @@ If each champion unit is running out of pool, player won't be able to find that 
 4-Cost(12) : Ambessa, Corki, Dr Mundo, Ekko, Elise, Garen, Heimerdinger, Illaoi, Silco, Twitch, Vi, Zoe <br>
 5-Cost(8)&nbsp;&nbsp; : Caitlyn, Jayce, Jinx, Leblanc, Malzahar, Mordekaiser, Rumble, Sevika <br><br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8c7035b2-7e40-427d-9775-c986db586f0e" width="100%" alt="Jinx">
+  <img src="https://github.com/user-attachments/assets/8c7035b2-7e40-427d-9775-c986db586f0e" width="100%" alt="Pool">
 </div>
 <br>
 
@@ -46,7 +47,7 @@ Every unit in every cost could upgrade to 1-Star, 2-Star, 3-Star. <br>
 Chance of getting each cost in each level is different <br>
 In this experiment we're gonna test from level 7 to 10, to see each level gold needed for finding 5-Cost 3-Star Unit <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bc4ee11a-0ee8-448f-a3a3-1d0f5be5f48e" width="100%" alt="Jinx">
+  <img src="https://github.com/user-attachments/assets/bc4ee11a-0ee8-448f-a3a3-1d0f5be5f48e" width="100%" alt="Odds">
 </div>
 <br>
 
