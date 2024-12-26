@@ -9,7 +9,7 @@ TFT is a game that heavily rely on a statistic, In this repository we are gonna 
 If you can make 5-Cost Unit that have 3-Star, in that match it's a guarantee win at 1st place for you in that match. <br>
 So that we can use this info to make the best decision for the best strategy and getting out of this dogshit game elo hell. <br><br>
 In this experiment we gonna test on patch 14.23 where 6-Cost doesn't exist in this patch <br>
-But this test could also apply to patch 14.24 because 6-Cost chance are very low it doesn't affect the chance of 5-Cost units. <br><br>
+But this test could also apply to patch 14.24 because 6-Cost chance are very low it doesn't affect the chance of 5-Cost units. <br>
 Time of simulation is around 10 million time for getting close to the theoratical probability as much as possible. <br>
 <br>
 
