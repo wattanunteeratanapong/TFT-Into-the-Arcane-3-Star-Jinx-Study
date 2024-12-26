@@ -28,6 +28,7 @@ If each champion unit is running out of pool, player won't be able to find that 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8c7035b2-7e40-427d-9775-c986db586f0e" width="100%" alt="Jinx">
 </div>
+<br>
 
 
 
@@ -37,11 +38,13 @@ Every unit in every cost could upgrade to 1-Star, 2-Star, 3-Star. <br>
 1-Star is a unit that can find the the pool <br>
 2-Star is a combined of 1-star 3 unit <br>
 3-Star is a combined of 2-star 3 unit (1-star 9 unit) <br>
+<br>
 
 
 
 
 ## Result from Simulation
+<br>
 
 
 
