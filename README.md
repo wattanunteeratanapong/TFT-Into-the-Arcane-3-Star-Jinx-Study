@@ -52,6 +52,15 @@ In this experiment we're gonna test from level 7 to 10, to see each level gold n
 
 
 
+## Shop System
+Each reroll player have 5 slot of random unit, player can buy unit from this shop.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/277f59ad-2a79-4f75-922d-e79fa5fc5654" width="100%" alt="Shop">
+</div>
+<br>
+
+
+
 ## Result from Simulation
 ### Level 7
 
