@@ -123,8 +123,7 @@ From the simulation roll for Jinx lower than level 10 is a very bold move, it's 
 If we take a look at the result from the simulation if we get champion duplicator 3-4 piece it is easy to find the 3-Star Jinx, but in a real game scenerio it's not easy to find champion duplicator.
 
 ### In case 2 "Champion Duplicator"
-3-4 champion duplicator are hardly to occur, but it is possible to get 1-2 champion duplicator. In that case you need a spare gold around 140 gold (70 reroll point) and you are most likely to get 3-Star Jinx. 
-
+3-4 champion duplicator are hardly to occur, but it is possible to get 1-2 champion duplicator. In that case you need a spare gold around 140 gold (70 reroll point) and you are most likely to get 3-Star Jinx. Keep that in mind you also have to reach level 10 too.
 ### In case no "Champion Duplicator"
 In case that you have no champion duplicator you need a spare gold around 290 gold (145 reroll point) and you are most likely to get 3-Star Jinx. Keep that in mind that you also have to reach level 10, and aqquire 290 gold chance are very hard to pull that off. <br><br>
 
