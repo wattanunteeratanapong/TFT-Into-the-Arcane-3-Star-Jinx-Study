@@ -12,7 +12,7 @@ In this experiment we're gonna test how much gold to get 5-Cost 3-Star Unit on l
 But this test could also apply to patch 14.24 because 6-Cost chance are very low it doesn't affect the chance of 5-Cost units. <br><br>
 And this experiment test only 1 player in real match other player can reduce the amount of 5-Cost Unit in the pool make it slightly easier to find 5-Cost Unit that we're looking for. 
 And also this simulation didn't use special technique like picking same cost out of the pool, in real game player could apply this technique to make it easier to find unit that we want. 
-And in the real game there are many factor that can increase a chance of getting 3-Star Jinx like champion duplicator, augment, selecting circle stage, etc.<br><br>
+And in the real game there are many factor that can increase a chance of getting 3-Star Jinx like champion duplicator, augment, selecting circle stage, etc. <br>
 <br>
 
 
@@ -67,25 +67,54 @@ Each reroll player have 5 slot of random unit, player can buy unit from this sho
 
 ## Result from Simulation
 ### Level 7
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/840770a3-9480-4892-8ccc-ff74b393bd79" width="100%" alt="Shop">
+</div>
 
 ### Level 8
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ed03ace4-42ed-4789-8bf5-8891624b11c3" width="100%" alt="Shop">
+</div>
 
 ### Level 9
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/095eda19-5cb0-4baa-b001-f7a7f8252207" width="100%" alt="Shop">
+</div>
 
 ### Level 10
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c45c2739-ca08-4871-a8a2-e9c7cc12fc1a" width="100%" alt="Shop">
+</div>
 
 ### Level 10 with 1 Champion Duplicator
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c2207ce6-b208-4887-be9e-5bf0d405661c" width="100%" alt="Shop">
+</div>
 
 ### Level 10 with 2 Champion Duplicator
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cd4394c0-d15f-4691-8d3a-35b5fe563dfc" width="100%" alt="Shop">
+</div>
 
 ### Level 10 with 3 Champion Duplicator
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ece77ad1-3702-4433-a8dd-7c6bf641676e" width="100%" alt="Shop">
+</div>
 
 ### Level 10 with 4 Champion Duplicator
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3df8522c-7dc7-4bdc-a29a-0f284239ceef" width="100%" alt="Shop">
+</div>
 
 ### Level 10 with 5 Champion Duplicator
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3c92da97-da0a-4deb-8ab5-0ca776e666e7" width="100%" alt="Shop">
+</div>
 
 ### Level 10 with 6 Champion Duplicator
-<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6388af0e-b976-480e-b480-867fe438863b" width="100%" alt="Shop">
+</div><br>
 
 
 
