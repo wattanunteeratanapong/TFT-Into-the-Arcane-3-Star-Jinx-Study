@@ -67,19 +67,19 @@ Each reroll player have 5 slot of random unit, player can buy unit from this sho
 
 ## Result from Simulation
 ### Level 7
-If you wanna reroll for 3-Star Jinx at level 7 you gonna need around 7000 gold, this is almost impossible to pull that off.
+If you wanna reroll for 3-Star Jinx at level 7 you gonna need around 7000 gold.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/840770a3-9480-4892-8ccc-ff74b393bd79" width="100%" alt="Shop">
 </div>
 
 ### Level 8
-If you wanna reroll for 3-Star Jinx at level 8 you gonna need around 1800 gold, this is almost impossible to pull that off.
+If you wanna reroll for 3-Star Jinx at level 8 you gonna need around 1800 gold.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ed03ace4-42ed-4789-8bf5-8891624b11c3" width="100%" alt="Shop">
 </div>
 
 ### Level 9
-If you wanna reroll for 3-Star Jinx at level 9 you gonna need around 700 gold, this is almost impossible to pull that off.
+If you wanna reroll for 3-Star Jinx at level 9 you gonna need around 700 gold.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/095eda19-5cb0-4baa-b001-f7a7f8252207" width="100%" alt="Shop">
 </div>
