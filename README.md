@@ -72,20 +72,24 @@ Each reroll player have 5 slot of random unit, player can buy unit from this sho
 ### Level 9
 
 ### Level 10
+
+### Level 10 with 1 Champion Duplicator
+
+### Level 10 with 2 Champion Duplicator
+
+### Level 10 with 3 Champion Duplicator
+
+### Level 10 with 4 Champion Duplicator
+
+### Level 10 with 5 Champion Duplicator
+
+### Level 10 with 6 Champion Duplicator
 <br>
 
 
 
 ## Conclusion
-### Level 7
-
-### Level 8
-
-### Level 9
-
-### Level 10
-In this patch, the chance of getting the anomaly we’re looking for increase every trail because we’re selecting anomalies that we’re not looking for out of the pool. But if we look at the number of trails to get the anomaly, the chance is the same for every trial. <br>
-The expected value of this patch from simulation is around 30 so it mean we most likely to get anomaly that we're looking for in trial 30, in that case we need a spare gold around 60 gold to get anomaly that we're looking for.
+From the simulation roll for jinx lower than level 10 is a very bold move, it's best if we reach level 10. and the more champion duplicator we have the lower gold we have to spend to find Jinx. This doesn't mean we have to gather Jinx only from champion duplicator, there are plenty way to gain 1 champion. <br> 
 
 The expected value of this patch from simulation is around 60 so it mean we most likely to get anomaly that we're looking for in trial 60, in that case we need a spare gold around 120 gold to get anomaly that we're looking for.
 <br><br>
