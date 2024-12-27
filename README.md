@@ -113,7 +113,7 @@ Each reroll player have 5 slot of random unit, player can buy unit from this sho
 
 ### Level 10 with 6 Champion Duplicator
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6388af0e-b976-480e-b480-867fe438863b" width="100%" alt="Shop">
+  <img src="https://github.com/user-attachments/assets/26137346-a3c3-48ff-9fb8-e19d248476cb" width="100%" alt="Shop">
 </div><br>
 
 
