@@ -19,8 +19,11 @@ And in the real game there are many factor that can increase a chance of getting
 
 ## Pool System
 There are 5 type of unit in TFT. 1-Cost, 2-Cost, 3-Cost, 4-Cost, 5-Cost <br>
-1-4 Cost Unit each champion have 18 unit in the pool <br>
-&nbsp;&nbsp;5&nbsp;&nbsp;Cost Unit each champion have 9 unit in the pool <br>
+1-Cost Unit each champion have 30 unit in the pool <br>
+2-Cost Unit each champion have 25 unit in the pool <br>
+3-Cost Unit each champion have 18 unit in the pool <br>
+4-Cost Unit each champion have 10 unit in the pool <br>
+5-Cost Unit each champion have 9 unit in the pool <br>
 If each champion is running out of pool, player won't be able to find that unit unless that unit is sold back to the pool <br><br>
 1-Cost(14) : Amumu, Darius, Draven, Irelia, Lux, Maddie, Morgana, Powder, Singed, Steb, Trundle, Vex, Violet, Zyra <br>
 2-Cost(13) : Akali, Camille, Leona, Nocturne, Rell, Renata, Sett, Tristana, Urgot, Vander, Vladimir, Zeri, Ziggs <br>
