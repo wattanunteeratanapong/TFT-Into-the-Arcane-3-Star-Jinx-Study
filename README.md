@@ -10,9 +10,10 @@ If you can make 5-Cost Unit that have 3-Star, in that match it's a guarantee win
 So that we can use this info to make the best decision for the best strategy and getting out of this elo hell. <br><br>
 In this experiment test how much gold to get 5-Cost 3-Star Unit on level 7-10, and experiment we gonna test on patch 14.23 where 6-Cost doesn't exist in this patch. 
 But this test could also apply to patch 14.24 because 6-Cost chance are very low it doesn't affect the chance of 5-Cost units. <br><br>
-And this experiment test only 1 player in real match other player can sinificantly reduce the number of the unit in the pool make it sinificantly easier to find the unit that we're looking for. 
-And also this simulation didn't use special technique like picking same cost out of the pool, in real game player could apply this technique to make it easier to find unit that we want. <br><br>
-Time of simulation is around 10 million time for getting close to the theoratical probability as much as possible. <br>
+And this experiment test only 1 player in real match other player can reduce the number of 5-Cost Unit in the pool make it slightly easier to find 5-Cost Unit that we're looking for. 
+And also this simulation didn't use special technique like picking same cost out of the pool, in real game player could apply this technique to make it easier to find unit that we want. 
+And in the real game there are many factor that can increase a chance of getting 3-Star Jinx like champion duplicator, augment, selecting circle stage etc.<br><br>
+Time of simulation is around 1 million time for getting close to the theoratical probability as much as possible. <br>
 <br>
 
 
@@ -46,7 +47,7 @@ Every unit in every cost could upgrade to 1-Star, 2-Star, 3-Star. <br>
 
 ## Level System & Odds System
 Chance of getting each cost in each level is different <br>
-In this experiment we're gonna test from level 7 to 10, to see each level gold needed for finding 5-Cost 3-Star Unit <br>
+As we can see 5-Cost Unite start to appear at level 7, so in this experiment we're gonna test from level 7 to 10, to see each level gold needed for finding 5-Cost 3-Star Unit <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bc4ee11a-0ee8-448f-a3a3-1d0f5be5f48e" width="100%" alt="Odds">
 </div>
@@ -55,7 +56,7 @@ In this experiment we're gonna test from level 7 to 10, to see each level gold n
 
 
 ## Shop System
-Each reroll player have 5 slot of random unit, player can buy unit from this shop.
+Each reroll player have 5 slot of random unit, player can buy unit from this shop, this mean in 1 reroll player have 5 times chance to get jinx.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/277f59ad-2a79-4f75-922d-e79fa5fc5654" width="100%" alt="Shop">
 </div>
@@ -98,3 +99,5 @@ The expected value of this patch from simulation is around 60 so it mean we most
 <a href="https://tftactics.gg/db/rolling/">TFT Set 13 Rolling Chances</a>
 <br>
 
+<a href="https://youtu.be/smV58edQCiM?si=vSUk73VxSW5M6u2O">Jinx 5 บาท 3 ดาว!!! มาพร้อมสกิลลับ...โหดขนาดนี้ใครจะหยุดได้? (TFT Set 13)</a>
+<br>
