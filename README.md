@@ -72,61 +72,61 @@ Each reroll player have 5 slot of random unit, player can buy unit from this sho
 ### Level 7
 If you wanna reroll for 3-Star Jinx at level 7 you gonna need around 7000 gold.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/840770a3-9480-4892-8ccc-ff74b393bd79" width="100%" alt="Shop">
+  <img src="https://github.com/user-attachments/assets/e02915cd-0d4a-4178-854e-b2e527e802b2" width="100%" alt="7">
 </div>
 
 ### Level 8
 If you wanna reroll for 3-Star Jinx at level 8 you gonna need around 1800 gold.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ed03ace4-42ed-4789-8bf5-8891624b11c3" width="100%" alt="Shop">
+  <img src="https://github.com/user-attachments/assets/5f684532-42b2-4b4e-9fa4-aca69eeb4e5a" width="100%" alt="8">
 </div>
 
 ### Level 9
 If you wanna reroll for 3-Star Jinx at level 9 you gonna need around 700 gold.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/095eda19-5cb0-4baa-b001-f7a7f8252207" width="100%" alt="Shop">
+  <img src="https://github.com/user-attachments/assets/00945490-7f44-4d0f-94d9-96809d9ecc8a" width="100%" alt="9">
 </div>
 
 ### Level 10
 If you wanna reroll for 3-Star Jinx at level 10 without having champion duplicator you gonna need around 300 gold.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c45c2739-ca08-4871-a8a2-e9c7cc12fc1a" width="100%" alt="Shop">
+  <img src="https://github.com/user-attachments/assets/c0afb8fe-e588-40c0-bd0b-4ad7db9ef541" width="100%" alt="10">
 </div>
 
 ### Level 10 with 1 Champion Duplicator
 If you wanna reroll for 3-Star Jinx at level 10 with 1 champion duplicator you gonna need around 190 gold.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c2207ce6-b208-4887-be9e-5bf0d405661c" width="100%" alt="Shop">
+  <img src="https://github.com/user-attachments/assets/32bb6ba6-1369-4965-bd36-6ee16cf0b8f5" width="100%" alt="11">
 </div>
 
 ### Level 10 with 2 Champion Duplicator
 If you wanna reroll for 3-Star Jinx at level 10 with 2 champion duplicator you gonna need around 140 gold.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cd4394c0-d15f-4691-8d3a-35b5fe563dfc" width="100%" alt="Shop">
+  <img src="https://github.com/user-attachments/assets/114fe3b9-d517-4d05-a7f7-b41c68c99533" width="100%" alt="12">
 </div>
 
 ### Level 10 with 3 Champion Duplicator
 If you wanna reroll for 3-Star Jinx at level 10 with 3 champion duplicator you gonna need around 100 gold.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ece77ad1-3702-4433-a8dd-7c6bf641676e" width="100%" alt="Shop">
+  <img src="https://github.com/user-attachments/assets/07b24638-377d-481d-bd8f-8be1836982e2" width="100%" alt="13">
 </div>
 
 ### Level 10 with 4 Champion Duplicator
 If you wanna reroll for 3-Star Jinx at level 10 with 4 champion duplicator you gonna need around 80 gold.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3df8522c-7dc7-4bdc-a29a-0f284239ceef" width="100%" alt="Shop">
+  <img src="https://github.com/user-attachments/assets/061ab14c-7917-49e2-8ea9-e98fc5add9dc" width="100%" alt="14">
 </div>
 
 ### Level 10 with 5 Champion Duplicator
 If you wanna reroll for 3-Star Jinx at level 10 with 5 champion duplicator you gonna need around 60 gold.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3c92da97-da0a-4deb-8ab5-0ca776e666e7" width="100%" alt="Shop">
+  <img src="https://github.com/user-attachments/assets/e03c581a-f4bb-49c6-b2b5-335a84fce872" width="100%" alt="15">
 </div>
 
 ### Level 10 with 6 Champion Duplicator
 If you wanna reroll for 3-Star Jinx at level 10 with 6 champion duplicator you gonna need around 40 gold.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/26137346-a3c3-48ff-9fb8-e19d248476cb" width="100%" alt="Shop">
+  <img src="https://github.com/user-attachments/assets/434bd72e-81b2-445a-87ed-562b689b7844" width="100%" alt="16">
 </div><br>
 
 
