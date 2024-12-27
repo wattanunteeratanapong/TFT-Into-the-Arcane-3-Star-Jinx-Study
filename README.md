@@ -67,51 +67,61 @@ Each reroll player have 5 slot of random unit, player can buy unit from this sho
 
 ## Result from Simulation
 ### Level 7
+If you wanna reroll for 3-Star Jinx at level 7 you gonna need around 7000 gold, this is almost impossible to pull that off.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/840770a3-9480-4892-8ccc-ff74b393bd79" width="100%" alt="Shop">
 </div>
 
 ### Level 8
+If you wanna reroll for 3-Star Jinx at level 8 you gonna need around 1800 gold, this is almost impossible to pull that off.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ed03ace4-42ed-4789-8bf5-8891624b11c3" width="100%" alt="Shop">
 </div>
 
 ### Level 9
+If you wanna reroll for 3-Star Jinx at level 9 you gonna need around 700 gold, this is almost impossible to pull that off.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/095eda19-5cb0-4baa-b001-f7a7f8252207" width="100%" alt="Shop">
 </div>
 
 ### Level 10
+If you wanna reroll for 3-Star Jinx at level 10 without having champion duplicator you gonna need around 300 gold.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c45c2739-ca08-4871-a8a2-e9c7cc12fc1a" width="100%" alt="Shop">
 </div>
 
 ### Level 10 with 1 Champion Duplicator
+If you wanna reroll for 3-Star Jinx at level 10 with 1 champion duplicator you gonna need around 190 gold.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c2207ce6-b208-4887-be9e-5bf0d405661c" width="100%" alt="Shop">
 </div>
 
 ### Level 10 with 2 Champion Duplicator
+If you wanna reroll for 3-Star Jinx at level 10 with 2 champion duplicator you gonna need around 140 gold.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cd4394c0-d15f-4691-8d3a-35b5fe563dfc" width="100%" alt="Shop">
 </div>
 
 ### Level 10 with 3 Champion Duplicator
+If you wanna reroll for 3-Star Jinx at level 10 with 3 champion duplicator you gonna need around 100 gold.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ece77ad1-3702-4433-a8dd-7c6bf641676e" width="100%" alt="Shop">
 </div>
 
 ### Level 10 with 4 Champion Duplicator
+If you wanna reroll for 3-Star Jinx at level 10 with 3 champion duplicator you gonna need around 80 gold.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3df8522c-7dc7-4bdc-a29a-0f284239ceef" width="100%" alt="Shop">
 </div>
 
 ### Level 10 with 5 Champion Duplicator
+If you wanna reroll for 3-Star Jinx at level 10 with 3 champion duplicator you gonna need around 60 gold.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3c92da97-da0a-4deb-8ab5-0ca776e666e7" width="100%" alt="Shop">
 </div>
 
 ### Level 10 with 6 Champion Duplicator
+If you wanna reroll for 3-Star Jinx at level 10 with 3 champion duplicator you gonna need around 40 gold.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/26137346-a3c3-48ff-9fb8-e19d248476cb" width="100%" alt="Shop">
 </div><br>
@@ -119,15 +129,15 @@ Each reroll player have 5 slot of random unit, player can buy unit from this sho
 
 
 ## Conclusion
-From the simulation roll for Jinx lower than level 10 is a very bold move, it's best if we reach level 10. and the more champion duplicator we have the lower gold we have to spend to find Jinx. There are planty way to gain champion other than champion duplicator. <br> 
-If we take a look at the result from the simulation if we get champion duplicator 3-4 piece it is easy to find the 3-Star Jinx, but in a real game scenerio it's not easy to find champion duplicator.
+From simulation roll for 3-Star Jinx lower than level 10 is a very bold move, It is almost impossible to find 3-Star Jinx. <br>
+### Conditon to pull 3-Star Jinx off
+<ul>
+  <li> You must reach level 10 </li>
+  <li> You gonna need to find at least 2-3 Jinx from "Champion Duplicator" or "Augment" or "Selecting Circle"</li>
+  <li> Sell you whole board and reroll for 3-Star Jinx </li>
+</ul>
+If you met these condition you most likely to get 3-Star Jinx. <br><br>
 
-### In case 2 "Champion Duplicator"
-3-4 champion duplicator are hardly to occur, but it is possible to get 1-2 champion duplicator. In that case you need a spare gold around 140 gold (70 reroll point) and you are most likely to get 3-Star Jinx. Keep that in mind you also have to reach level 10 too.
-### In case no "Champion Duplicator"
-In case that you have no champion duplicator you need a spare gold around 290 gold (145 reroll point) and you are most likely to get 3-Star Jinx. Keep that in mind that you also have to reach level 10, and aqquire 290 gold chance are very hard to pull that off. <br><br>
-
-If you wanna pull 3-Star Jinx off you gonna need to find at least 2 Jinx, and find the rest from shop. And you must reach level 10, if you cant reach level 10 3-Star Jinx is likely impossible. <br>
 
 
 ## Source
