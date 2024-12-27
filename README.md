@@ -134,7 +134,7 @@ From simulation roll for 3-Star Jinx lower than level 10 is a very bold move, It
 <ul>
   <li> You must reach level 10 </li>
   <li> You gonna need to find at least 2-3 Jinx from "Champion Duplicator" or "Augment" or "Selecting Circle"</li>
-  <li> Sell you whole board and reroll for 3-Star Jinx </li>
+  <li> Sell you whole board for gold to reroll for 3-Star Jinx </li>
 </ul>
 If you met these condition you most likely to get 3-Star Jinx. <br><br>
 
