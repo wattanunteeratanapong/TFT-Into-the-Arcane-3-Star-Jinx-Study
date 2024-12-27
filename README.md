@@ -129,7 +129,7 @@ If you wanna reroll for 3-Star Jinx at level 10 with 6 champion duplicator you g
 
 
 ## Conclusion
-From simulation roll for 3-Star Jinx lower than level 10 is a very bold move, It is almost impossible to find 3-Star Jinx. <br>
+From simulation roll for 3-Star Jinx without reaching level 10 is a very bold move, It is almost impossible to find 3-Star Jinx without level 10. <br>
 ### Conditon to pull 3-Star Jinx off
 <ul>
   <li> You must reach level 10 </li>
