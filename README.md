@@ -1,4 +1,4 @@
-# TFT Set 13 3-Star Jinx Study
+# TFT Into the Arcane(Set 13) 3-Star Jinx Study
 Have you ever wonder how many gold do we have to spend to get 3-Star Jinx in TFT Set13? <br><br>
 <img src="https://github.com/user-attachments/assets/261a36cc-8801-4ea2-9fcf-e04538878a24" width="100%" alt="Jinx"> <br><br>
 
